@@ -40,7 +40,8 @@ You can code, commit and push into this new repository.
 **WHEN YOU ARE READY** and want us to review your code, you have to add us as collaborators to your repository:
 
 - fabienjuif
-- akallu
+- luzam
+- gautier-gdx
 
 From this stage, we considerer you have finished the task!
 
