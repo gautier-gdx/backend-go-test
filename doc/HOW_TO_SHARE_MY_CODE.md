@@ -42,6 +42,7 @@ You can code, commit and push into this new repository.
 - fabienjuif
 - luzam
 - gautier-gdx
+- dav-m85
 
 From this stage, we considerer you have finished the task!
 
